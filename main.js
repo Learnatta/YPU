@@ -6,6 +6,6 @@ btn.addEventListener("click", function (e) {
   e.preventDefault();
   if (id.value == 12010111171 && pas.value == "97859zxccxzz") {
     init = true;
-    window.location.href = "https://hamzaabduljalil.github.io/ma/";
+    window.location.href = "https://learnatta.github.io/markYPU/";
   }
 });
